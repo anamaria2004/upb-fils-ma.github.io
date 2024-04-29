@@ -2,7 +2,7 @@
 
 :::info 
 
-**Author**: Student Name \
+**Author**: Ana-Maria Comeaga
 **GitHub Project Link**: link_to_github
 
 :::
